@@ -1,0 +1,23 @@
+class Person:
+    name = "John"
+    age = 37
+    program = "DevOps course"
+    type = "Student"
+
+class Person:
+    name = "Mary"
+    age = 22
+    program = "DevOps course"
+    type = "Student"
+
+class Person:
+    name = "Jane"
+    age = 34
+    program = "DevOps course"
+    type = "Coordinator"
+
+class Person:
+    name = "Bruce"
+    age = 35
+    program = "DevOps course"
+    type = "Instructor"

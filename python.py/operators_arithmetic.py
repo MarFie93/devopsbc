@@ -46,10 +46,7 @@ print((10+2-5*6/4)%2)
 
 print((10+(2-5*6)/4)%2)
 
-
-
 # Exponent
-
 print("2^3=", 2**3)
 
 print("2^3=", (2**3)%2) # 0 is even - NOT 0 is odd

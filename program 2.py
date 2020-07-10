@@ -1,0 +1,1 @@
+watch codecast to catch up - he is sharing data on github and putting a link in our slack
